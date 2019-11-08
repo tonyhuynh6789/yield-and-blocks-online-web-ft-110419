@@ -5,7 +5,8 @@ while i < array.count do
   yield array[i] 
   i = i + 1
   
-end   
+end 
+array
 end
 
 
